@@ -1,7 +1,14 @@
 .bandimg {
   float: left;
+  padding-left: 20px;
 }
 
 .sidebar {
   float: right;
+  border-style: solid;
+  border-color: red;
+  border-width: thick;
+  background-color: gray;
+  padding: 3px;
+  margin: 3px;
 }
